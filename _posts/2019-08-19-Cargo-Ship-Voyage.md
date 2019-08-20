@@ -126,20 +126,23 @@ Walter sent me a text asking for our names and ID numbers so he could arrange fo
 
 For those of you who do not have much nautical experience, here are some common maritime vocabulary terms I will be using:
 
-Port – the left side of the ship
-Starboard – the right side of the ship
+* Port – the left side of the ship  
+* Starboard – the right side of the ship  
 
-Bow – the front of the ship
-Stern – the rear of the ship
+* Bow – the front of the ship  
+* Stern – the rear of the ship  
 
-Fore – towards the front of the ship
-Aft – towards the rear of the ship
+* Fore – towards the front of the ship  
+* Aft – towards the rear of the ship  
 
-Beam – the side of a ship.  Thus, the port beam is the left side of the ship, and the starboard beam is the right side of the ship.
+* Beam – the side of a ship.  Thus, the port beam is the left side of the ship, and the starboard beam is the right side of the ship.  
 
-Bulkhead – a wall
-Ladder – a stairway
-Head – the bathroom/restroom
+* Deck - floor  
+* Bulkhead – wall  
+* Ladder – stairway  
+* Head – bathroom/restroom  
+* Galley - kitchen  
+* Chow hall - dining area  
 
 Also, I will be using the 24-hour clock to note times from here on out.
 
