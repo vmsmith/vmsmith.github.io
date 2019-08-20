@@ -1,9 +1,9 @@
-My wife, Ellen, and I travelled from Baltimore, Maryland to Hamburg, Germany on a cargo ship during the summer of 2019.  In preparing for the voyage, I found there to be a dearth of information of any sort available.  This blog is meant to document some of the things we learned before and during the voyage that might help others plan and prepare.  As such, it is meant primarily to be informative (as opposed to entertaining).
-
 ---
 layout: post
 title: Background
 ---
+
+My wife, Ellen, and I travelled from Baltimore, Maryland to Hamburg, Germany on a cargo ship during the summer of 2019.  In preparing for the voyage, I found there to be a dearth of information of any sort available.  This blog is meant to document some of the things we learned before and during the voyage that might help others plan and prepare.  As such, it is meant primarily to be informative (as opposed to entertaining).
 
 Sometime back in the heyday of alternative lifestyle catalogs -- late-60s/early-70s -- I came across a catalog called "The Great Escape," or something like that.  In it there was an interesting article about traveling by freighter.  I liked it at the time, and although I rarely thought about it over the years, the idea never quite left me.
 
