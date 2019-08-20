@@ -6,7 +6,7 @@ title: The Diary of a Cargo Ship Voyage
 <table style="width:100%">
   <tr>
   <td></td>
-  <td><a href="https://github.com/vmsmith/vmsmith.github.io/blob/master/images/Atlantic_Sky.jpg"></td>
+  <td><a href="https://github.com/vmsmith/vmsmith.github.io/blob/master/images"><src="Atlantic_Sky.jpg"></td>
   <td></td>
   </tr>
 </table>
