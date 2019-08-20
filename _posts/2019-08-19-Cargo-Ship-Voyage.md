@@ -62,7 +62,7 @@ Blah, blah, blah...
 
 ### Wed, 11 July
 
-According to the ACL interactive web site, we are due to arrive in Hamburg now on 11 August.  In the absence of any other information, Ellen and I booked a room in Hamburg for a few days starting 11 August, and arranged a rental car through AAA in Virginia.  We planned to spend a few days in Hamburg, pick up the car on 14 August, spend that night somewhere in Belgium, and arrive in Paris on the 15th.
+According to the ACL interactive web site, at this point we were due to arrive in Hamburg on 11 August.  In the absence of any other information, Ellen and I booked a room in Hamburg for a few days starting 11 August, and arranged a rental car through AAA in Virginia.  We planned to spend a few days in Hamburg, pick up the car on 14 August, spend that night somewhere in Belgium, and arrive in Paris on the 15th.
 
 There were some uncertainties at this point that were gnawing at us.  Specifically:
 
@@ -74,7 +74,7 @@ There were some uncertainties at this point that were gnawing at us.  Specifical
 
 * How would we get from the ship to our hotel in Hamburg?  Would there be a phone onboard that we could use?
 
-We didn't stay awake at night staring at the ceiling and wondering how we would get our luggage onboard, but these uncertainties did produce a certain amount of anxiety. Yada yada yada...
+We didn't stay awake at night staring at the ceiling and wondering how we would get our luggage onboard, but these uncertainties did produce a certain amount of anxiety, some of which didn't leave us until the end. 
 
 ### Thu, 19 July
 
@@ -122,7 +122,7 @@ I’ll add at this point that I had been wondering about the relationship betwee
 Walter sent me a text asking for our names and ID numbers so he could arrange for us to get in Dundark terminal.  I took this to be a sign that he’s on top of it, and I felt good.
 
 
-### Stray Voltage – Maritime Terminology
+### Stray Voltage – Nautical Terminology
 
 For those of you who do not have much nautical experience, here are some common maritime vocabulary terms I will be using:
 
@@ -139,6 +139,8 @@ For those of you who do not have much nautical experience, here are some common 
 * Head – bathroom/restroom  
 * Galley - kitchen  
 * Chow hall - dining area  
+
+If I inadvertently use a term that I forgot to define, you can check the [Wikipedia article of nautical term](https://en.wikipedia.org/wiki/Glossary_of_nautical_terms).
 
 Also, I will be using the 24-hour clock to note times from here on out.
 
