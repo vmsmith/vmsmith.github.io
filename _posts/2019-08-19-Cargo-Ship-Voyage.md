@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A freighter cruise across The Atlantic
+title: The Diary of a Cargo Ship Voyage
 ---
 
 ### Preface  
@@ -23,14 +23,25 @@ The initial Google results were a bit scattered and unorganized, but I was fortu
 
 My email records show that between our first e-mail and our embarkation in late-July 2019, we swapped over 130 emails. That in itself should be a testament to how confusing it was for us, and how patient Colin was in helping us sort it all out.
 
-I won't describe each and every e-mail; rather, I'll summarize the major points that Colin helped us with:
+I won't describe each and every e-mail; rather, I'll summarize the major points that we were able to sort out:
 
-* Choosing an itinerary.
+* Cost/Benefit 
 
-* Health Insurance.
+The price of a one-way airline ticket was about $1,300 when we started looking.  That would have been about $2,600 for two tickets, and at least $100 (if not more) for the additional luggage we intended to bring back.
+
+The cost of the cargo ship was approximately the same (maybe a tad more with health insurance).  But we also got two weeks of room and board thrown in, which would have cost us an additional $1,500 or so in Paris.
+
+So on balance, we realized that from a purely financial point of view, the cargo ship was a bit better.
+
+* Choosing an itinerary  
+
+We had a vague notion that all we had to do was tell Colin that we wanted to leave from an East Coast port and land somewhere in Europe. That was a big nope. We had to neck it down to specific embarkation and disembarkation ports.  And we did after a few back-and-forths.  Baltimore, Maryland to Hamburg, Germany was the itinerary that made the most sense.
+
+* Health Insurance
+
+This was complex, and it was one place where Colin really earned his money. He was not allowed to recommend companies, but he gave us the name of a company that he said others had used.  So far, so good. But it turned out to required 4 - 5 applications and cancellations until we finally got all the details right.  Once we had that down, Colin advised us to wait until close to the last minute to actually purchase it in case there were further changes.
 
 * Rescheduling
 
 * Following the ACL interactive web site….
 
-![test](https://github.com/vmsmith/vmsmith.github.io/blob/master/images/step1.gif)
