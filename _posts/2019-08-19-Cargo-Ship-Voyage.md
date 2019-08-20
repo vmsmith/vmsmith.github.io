@@ -3,6 +3,8 @@ layout: post
 title: The Diary of a Cargo Ship Voyage
 ---
 
+![Step 1](/images/step1.gif "Step 1")
+
 ### Preface  
 
 My wife, Ellen, and I travelled from Baltimore, Maryland to Hamburg, Germany on a cargo ship during the summer of 2019.  In preparing for the voyage, I found there to be a dearth of information of any sort available.  This blog is meant to document some of the things we learned before and during the voyage that might help others plan and prepare.  As such, it is meant primarily to be informative (as opposed to entertaining).  Nonetheless, I hope you find it enjoyable reading...
