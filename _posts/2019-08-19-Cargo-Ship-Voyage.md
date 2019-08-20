@@ -3,7 +3,16 @@ layout: post
 title: The Diary of a Cargo Ship Voyage
 ---
 
-![Atlantic Sky](/images/Atlantic_Sky.jpg "Atlantic Sky")
+<table style="width:100%">
+  <tr>
+  <td></td>
+  <td>![Atlantic Sky](/images/Atlantic_Sky.jpg "Atlantic Sky")</td>
+  <td></td>
+  </tr>
+</table>
+  
+
+
 
 ### Preface  
 
