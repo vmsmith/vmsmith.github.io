@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rick Jones and Ellen Bryson live in Paris.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In the fall of 2012 we toured France for nine weeks by car.  If you are interested, you can read our blog, Notre Plaisir.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rwjones75000@domain.com](mailto:rwjones75000@gmail.com)
