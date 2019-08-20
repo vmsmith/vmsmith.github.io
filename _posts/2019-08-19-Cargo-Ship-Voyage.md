@@ -60,9 +60,92 @@ We had originally booked passage on the Atlantic Sail, scheduled to depart Balti
 
 Colin introduced us to the [ACL interactive vessel schedules website](https://www.aclcargo.com/vesselSchedules.php). Although this turned out to be not entirely accurate as we got close to departure, it gave us a warm and fuzzy to at least *think* we were on top of the schedule. And up until the last week it was accurate enough.
 
-And so 130 emails and 9 1/2 months later, we had tickets in hand and were ready to go...
+And so 130 emails and 9 months later, we had tickets in hand and were ready to go...
 
-#### Stray Voltage - Health Insurance
+### Stray Voltage - Health Insurance  
+
+
+### Wed, 11 July
+
+According to the ACL interactive web site, we are due to arrive in Hamburg now on 11 August.  In the absence of any other information, Ellen and I booked a room in Hamburg for a few days starting 11 August, and arranged a rental car through AAA in Virginia. We plan to spend a few days in Hamburg, pick up the car on 14 August, spend that night somewhere in Belgium, and arrive in Paris on the 15th.
+
+There were some uncertainties at this point that were gnawing at us.  Specifically:
+
+* How would we get to the ship in Baltimore?  Would our rides be able to enter the port and drive us there?  And how would we get all of our luggage onboard?
+
+* How would immigration and customs work in Hamburg?
+
+* How could be contact the hotel if our arrival time changed while we were underway?
+
+* How would we get from the ship to our hotel in Hamburg?  Would there be a phone onboard that we could use?
+
+### Thu, 19 July
+
+I called ACL for the first time and spoke with someone who said that an organization called Norton Lilly would actually be providing details such as time, location, etc.  Apparently Norton Lilly is ACL’s local agent.  Norton Lilly would also make sure our names are at the terminal gate so we can get in, and they would make sure we had transportation from the gate to the ship. 
+
+I called Norton Lilly and the operator I spoke to said that the agent handling the Atlantic Sky was not in, and that I needed to call back.
+
+I would add that at this point the ship’s departure has changed several times.  It fell back to 2:00 am on Tuesday, 30 July at one point, then moved up to Monday, 29 July.
+
+### Tue, 23 July
+
+I called Norton Lilly again, and again was told that the agent I needed to speak to was not in.  This time the operator took my name and phone number and said he’d have the agent call back.
+
+The operator also took the time to discuss the ship’s schedule.  When I told him it was currently scheduled to depart on Sunday, 28 July he laughed. He said that in the shipping business that’s a lifetime, and that we really won’t know for a few more days.
+
+### Thu, 25 July
+
+I called Norton Lilly and finally got through to the person I needed to talk to.  His name is Walter Celario.  Before I reached Walter, however, I talked to the guy who answered the phone, someone named Gordon.  Gordon was friendly and as helpful as he could be (given that the Atlantic Sky wasn’t his thing).  In the course of the conversation, when I mentioned that ACL told me we’d need an escort from the gate to the ship, he mused out loud, “I wonder who’s going to pay for that?”  That did not give me a warm and fuzzy.
+
+Well, Walter answered that question: Ellen and I are going to pay.  It will be about $55, which is no big deal but still a bit of a surprise (and, as I learned later, a bit of a scam).
+
+That aside, Walter said the ship is supposed to arrive at about 4:00 am on Monday, 29 July, and depart about 24 hours later.  He told us we should be there to board at noon on the 29th, and he gave me the address at the Dundark Marine Terminal.
+
+Walter also gave me his cell phone number and an e-mail address.  I gave him my cell and e-mail, and he said he’d be in touch with additional information.
+
+### Fri, 26 July
+
+I sent Walter an e-mail with a copy of our Atlantic Sky ticket, as well as a recap of what I understood him to have said yesterday.  Walter replied almost immediately that a 12:00 pm arrival was correct, because there would be no loading activity going on at that time.  It’s good to know he’s checking his e-mail and taking us seriously.
+
+I also called ACL to ask a few questions about things related to our arrival in Hamburg.  I figured since Norton Lilly is just a local agent for Baltimore, no one there would have any knowledge about Hamburg, but that ACL might.
+
+I spoke with a guy named Kristopher who really made my day.  He was smart and patient, and he made a real effort to explain things to me and answer what he could.  The things I took away from that conversation were the following:
+
+•	There might not be any Internet connectivity on the ship, but we could debark at the various ports (e.g., Liverpool) and contact our hotel in Hamburg to modify reservations as necessary.
+•	If the ship arrives in Hamburg at, say, 1:00 am, we will not be obliged to disembark at that point.  We will almost certainly be able to sleep through the night and disembark the following morning.
+•	From a customs/passport control point of view, we will be treated like crew.  We will probably fill out forms and give them to the Master, and then the customs people will come on board to review things.  
+
+Kristopher also confirmed that the Atlantic Sky will be pier side on Monday, 29 July, even though the interactive online website was not reflecting that.
+
+I’ll add at this point that I was wondering about the relationship between ACL and Grimaldi.  What I came to understand later is that ACL used to be its own company, but after the 2008 economic collapse it had been acquired by Grimaldi.  My understanding is that Grimaldi is a global shipping company, and that ACL basically handles all, or a large part of, the Atlantic shipping.  There might be an analogous company in the Pacific that handles Pacific trade, and one in the Mediterranean, and so on.  
+Sun, 28 July
+
+Walter sent me a text asking for our names and ID numbers so he could arrange for us to get in Dundark terminal.  I took this to be a sign that he’s on top of it.  Good.
+
+
+### Stray Voltage – Maritime Terminology
+
+For those of you who do not have much nautical experience, here are some common maritime vocabulary terms I will be using:
+
+Port – the left side of the ship
+Starboard – the right side of the ship
+
+Bow – the front of the ship
+Stern – the rear of the ship
+
+Fore – towards the front of the ship
+Aft – towards the rear of the ship
+
+Beam – the side of a ship.  Thus, the port beam is the left side of the ship, and the starboard beam is the right side of the ship.
+
+Bulkhead – a wall
+Ladder – a stairway
+Head – the bathroom/restroom
+
+Also, I will be using the 24-hour clock to note times from here on out.
+
+
+
 
 
 
