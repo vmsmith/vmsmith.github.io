@@ -32,3 +32,5 @@ I won't describe each and every e-mail; rather, I'll summarize the major points 
 * Rescheduling
 
 * Following the ACL interactive web site….
+
+![test](https://github.com/vmsmith/vmsmith.github.io/blob/master/images/step1.gif)
