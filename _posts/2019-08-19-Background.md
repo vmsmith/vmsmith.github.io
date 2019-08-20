@@ -3,7 +3,7 @@ layout: post
 title: A freighter cruise across The Atlantic
 ---
 
-### Preamble  
+### Preface  
 
 My wife, Ellen, and I travelled from Baltimore, Maryland to Hamburg, Germany on a cargo ship during the summer of 2019.  In preparing for the voyage, I found there to be a dearth of information of any sort available.  This blog is meant to document some of the things we learned before and during the voyage that might help others plan and prepare.  As such, it is meant primarily to be informative (as opposed to entertaining).  Nonetheless, I hope you find it enjoyable reading...
 
@@ -29,7 +29,7 @@ The following blog documents the journey from my first e-mail exchange until the
 
 ### Beginnings: October 2018 – July 2019
 
-I contacted Colin Hetherington, of Cargo Ship Voyages, for the first time on 11 October 2018.  In the absence of any information whatsoever, I had just started Googling.  
+I contacted [Colin Hetherington](https://www.linkedin.com/in/colin-hetherington-6658a17/), of [Cargo Ship Voyages](https://www.cargoshipvoyages.com), for the first time on 11 October 2018.  In the absence of any information whatsoever, I had just started Googling.  
 
 My email records show that between then and our embarkation in late-July 2019 we swapped over 130 emails.  
 
