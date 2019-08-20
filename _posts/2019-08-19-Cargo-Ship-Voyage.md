@@ -50,9 +50,17 @@ We had a vague notion that all we had to do was tell Colin that we wanted to lea
 
 * Health Insurance
 
-This was complex, and it was one place where Colin really earned his money. He was not allowed to recommend companies, but he gave us the name of a company that he said others had used.  So far, so good. But it turned out to required 4 - 5 applications and cancellations until we finally got all the details right.  Once we had that down, Colin advised us to wait until close to the last minute to actually purchase it in case there were further changes.
+This was complex, and it was one of those places where Colin really earned his money. He was not allowed to recommend companies, but he gave us the name of a company that he said others had used.  So far, so good. But it turned out to have required 4 - 5 applications and cancellations until we finally got all the details right.  Once we had that down, Colin advised us to wait until close to the last minute to actually purchase it in case there were further changes. (More details on the health insurance thing below.)
 
-* Rescheduling
+* Rescheduling  
 
-* Following the ACL interactive web site….
+We had originally booked passage on the Atlantic Sail, scheduled to depart Baltimore on 13 July and arrive in Hamburg on 28 July. As spring advanced and we started looking at the various things we needed to be doing in the U.S. with more granularity, we realized that 13 July was probably going to be tighter than tight. Once again, Colin came through. He was able to get us rebooked on the Atlantic Sky, scheduled to depart Baltimore on 27 July.  
+
+* ACL interactive web site
+
+Colin introduced us to the [ACL interactive vessel schedules website](https://www.aclcargo.com/vesselSchedules.php). Although this turned out to be not entirely accurate as we got close to departure, it gave us a warm and fuzzy to at least *think* we were on top of the schedule. And up until the last week it was accurate enough.
+
+#### Stray Voltage - Health Insurance
+
+
 
