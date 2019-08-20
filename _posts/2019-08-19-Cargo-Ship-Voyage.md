@@ -3,7 +3,7 @@ layout: post
 title: The Diary of a Cargo Ship Voyage
 ---
 
-![Step 1](/images/step1.gif "Step 1")
+![Atlantic Sky](/images/Atlantic_Sky.jpg "Atlantic Sky")
 
 ### Preface  
 
