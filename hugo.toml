@@ -1,0 +1,42 @@
+theme = "PaperMod"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'As We May Yet Think'
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Log"
+    url = "/log/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Architecture"
+    url = "/architecture/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Cletho"
+    url = "/cletho/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Moneypenny"
+    url = "/moneypenny/"
+    weight = 50
+
+  [[menu.main]]
+    name = "RAG"
+    url = "/rag/"
+    weight = 60
+
+  [[menu.main]]
+    name = "Decisions"
+    url = "/decisions/"
+    weight = 70
+
