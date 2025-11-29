@@ -2,16 +2,24 @@
 title: "Welcome"
 ---
 
-Welcome to my personal workspace for tracking the development of 
-**Cletho**, **Moneypenny**, and the broader ideas behind Clear Thought Labs.
+Welcome to my personal workspace for tracking the development of **Moneypenny**, and the broader ideas behind Clear Thought Labs.
+
+In April 2025, I published an article on Substack—[As We May Yet Think](https://12nw.substack.com/p/as-we-may-yet-think)—about how AI applications might serve as thought partners to help human users think more clearly and rationally. Two months later, a friend and I launched Clear Thought Labs to build a first version of such a system.   
+
+It turned out to be far more challenging than I expected. The information load alone was immense: schedules, decisions, design pivots, technical reading, new concepts like RAG and MCP, insights from AI research blogs . . . all of it accumulating faster than I could track or process. It became clear that I needed help managing not just the work, but the information and thinking surrounding the work.    
+
+I imagined an AI executive assistant—Moneypenny—named after the iconic Miss Moneypenny (Lois Maxwell in the early Bond films). Moneypenny would help manage information, organize ideas, and serve as a companion in learning the technologies behind our larger project.   
+
+The more I explored the concept, the more I realized I wanted two versions of Moneypenny:       
+* a personal version, to help in handle my own life and intellectual workflow, and
+* a CTL version, to help in managing the development of products and the running of the company.
 
 This site serves two purposes:
 
 1. **A public window** into the thinking, decisions, and experiments behind the project.
 2. **A working log** for architecture notes, design considerations, and ongoing development.
 
-Over time, this will grow into a narrative record of the work — part journal,
-part technical notebook, part story.
+Over time, this will grow into a narrative record of the work — part journal, part technical notebook, part story.
 
 Use the menu items above to explore the different areas of the project.
 
