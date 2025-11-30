@@ -21,22 +21,10 @@ title = 'As We May Yet Think'
     weight = 30
 
   [[menu.main]]
-    name = "Cletho"
-    url = "/cletho/"
-    weight = 40
-
-  [[menu.main]]
-    name = "Moneypenny"
-    url = "/moneypenny/"
-    weight = 50
-
-  [[menu.main]]
-    name = "RAG"
-    url = "/rag/"
-    weight = 60
-
-  [[menu.main]]
     name = "Decisions"
     url = "/decisions/"
-    weight = 70
+    weight = 40
+
+[params]
+disableHomeList = true
 
