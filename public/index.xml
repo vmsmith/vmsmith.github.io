@@ -6,8 +6,50 @@
     <description>Recent content in Welcome on As We May Yet Think</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 20:54:21 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The origins of Moneypenny</title>
+      <link>http://localhost:1313/blog/first-post/</link>
+      <pubDate>Sat, 29 Nov 2025 20:54:21 -0500</pubDate>
+      <guid>http://localhost:1313/blog/first-post/</guid>
+      <description>&lt;p&gt;The original Moneypenny was meant to be an AI executive assistant to help manage the large amount of information associated with Cletho development. The personal Moneypenny I am developing here is meant to help me manage my own life and the goals and objectives I have. The initial specific functions of the application are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Maintain a &amp;ldquo;To Do&amp;rdquo; list of things I want or need to do.&lt;/li&gt;
+&lt;li&gt;Track milestones and deliverables related to the “To Do” list.&lt;/li&gt;
+&lt;li&gt;Keep a daily time stamped, searchable journal of significant things I do on given days.&lt;/li&gt;
+&lt;li&gt;Maintain an ideas log of ideas I come up with.&lt;/li&gt;
+&lt;li&gt;Manage my calendar, which may include connections to other calendars.&lt;/li&gt;
+&lt;li&gt;Record important decisions, with rationale, date, and context.&lt;/li&gt;
+&lt;li&gt;Maintain an &amp;ldquo;Action Items&amp;rdquo; list of things other people are responsible for doing.&lt;/li&gt;
+&lt;li&gt;Index digital artifacts, to wit, keep a record of where articles, key discussion topics, document summaries, etc. can be found.&lt;/li&gt;
+&lt;li&gt;Hold and publish long-term reminders, e.g., such-and-such a subscription is expiring next month, Delaware taxes are due in a month, etc.&lt;/li&gt;
+&lt;li&gt;Perform topical research on subjects of interest.&lt;/li&gt;
+&lt;li&gt;Summarize documents and identify key points.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Refining the Site Structure and First Blog Post</title>
+      <link>http://localhost:1313/log/entry-002/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/log/entry-002/</guid>
+      <description>&lt;p&gt;Today I refined several parts of the new Hugo site as I continued building the
+public-facing workspace for the Moneypenny and Cletho projects.&lt;/p&gt;
+&lt;p&gt;Key updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Published my first real blog post and verified the local → GitHub Pages
+workflow end-to-end.&lt;/li&gt;
+&lt;li&gt;Cleaned up the site navigation by keeping only the sections that make sense
+right now: &lt;strong&gt;Blog&lt;/strong&gt;, &lt;strong&gt;Log&lt;/strong&gt;, &lt;strong&gt;Architecture&lt;/strong&gt;, and &lt;strong&gt;Decisions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Configured the homepage so that it no longer shows the most recent blog post.
+The homepage now serves purely as an introduction rather than a blog feed.&lt;/li&gt;
+&lt;li&gt;Added a proper &lt;code&gt;.gitignore&lt;/code&gt; to keep build artifacts like &lt;code&gt;public/&lt;/code&gt; out of
+version control.&lt;/li&gt;
+&lt;li&gt;Ensured the GitHub Actions workflow remains clean and deploys correctly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The site is now significantly cleaner, easier to navigate, and better aligned
+with the narrative and functional goals of the project.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Workspace Setup and Deployment</title>
       <link>http://localhost:1313/log/entry-001/</link>

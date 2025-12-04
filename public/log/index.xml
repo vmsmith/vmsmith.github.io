@@ -9,6 +9,28 @@
     <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Refining the Site Structure and First Blog Post</title>
+      <link>http://localhost:1313/log/entry-002/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/log/entry-002/</guid>
+      <description>&lt;p&gt;Today I refined several parts of the new Hugo site as I continued building the
+public-facing workspace for the Moneypenny and Cletho projects.&lt;/p&gt;
+&lt;p&gt;Key updates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Published my first real blog post and verified the local → GitHub Pages
+workflow end-to-end.&lt;/li&gt;
+&lt;li&gt;Cleaned up the site navigation by keeping only the sections that make sense
+right now: &lt;strong&gt;Blog&lt;/strong&gt;, &lt;strong&gt;Log&lt;/strong&gt;, &lt;strong&gt;Architecture&lt;/strong&gt;, and &lt;strong&gt;Decisions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Configured the homepage so that it no longer shows the most recent blog post.
+The homepage now serves purely as an introduction rather than a blog feed.&lt;/li&gt;
+&lt;li&gt;Added a proper &lt;code&gt;.gitignore&lt;/code&gt; to keep build artifacts like &lt;code&gt;public/&lt;/code&gt; out of
+version control.&lt;/li&gt;
+&lt;li&gt;Ensured the GitHub Actions workflow remains clean and deploys correctly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The site is now significantly cleaner, easier to navigate, and better aligned
+with the narrative and functional goals of the project.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Workspace Setup and Deployment</title>
       <link>http://localhost:1313/log/entry-001/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>

@@ -119,21 +119,6 @@
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/cletho/" title="Cletho">
-                    <span>Cletho</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/moneypenny/" title="Moneypenny">
-                    <span>Moneypenny</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/rag/" title="RAG">
-                    <span>RAG</span>
-                </a>
-            </li>
-            <li>
                 <a href="http://localhost:1313/decisions/" title="Decisions">
                     <span>Decisions</span>
                 </a>
@@ -142,21 +127,42 @@
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><p>Welcome to my personal workspace for tracking the development of
-<strong>Cletho</strong>, <strong>Moneypenny</strong>, and the broader ideas behind Clear Thought Labs.</p>
+<div class="post-content"><p>Welcome to my personal workspace for tracking the development of <strong>Moneypenny</strong>, and the broader ideas behind Clear Thought Labs.</p>
+<p>In April 2025, I published an article on Substack—<a href="https://12nw.substack.com/p/as-we-may-yet-think">As We May Yet Think</a>—about how AI applications might serve as thought partners to help human users think more clearly and rationally. Two months later, a friend and I launched Clear Thought Labs to build a first version of such a system.</p>
+<p>It turned out to be far more challenging than I expected. The information load alone was immense: schedules, decisions, design pivots, technical reading, new concepts like RAG and MCP, insights from AI research blogs . . . all of it accumulating faster than I could track or process. It became clear that I needed help managing not just the work, but the information and thinking surrounding the work.</p>
+<p>I imagined an AI executive assistant—Moneypenny—named after the iconic Miss Moneypenny (Lois Maxwell in the early Bond films). Moneypenny would help manage information, organize ideas, and serve as a companion in learning the technologies behind our larger project.</p>
+<p>The more I explored the concept, the more I realized I wanted two versions of Moneypenny:</p>
+<ul>
+<li>a personal version, to help in handle my own life and intellectual workflow, and</li>
+<li>a CTL version, to help in managing the development of products and the running of the company.</li>
+</ul>
 <p>This site serves two purposes:</p>
 <ol>
 <li><strong>A public window</strong> into the thinking, decisions, and experiments behind the project.</li>
 <li><strong>A working log</strong> for architecture notes, design considerations, and ongoing development.</li>
 </ol>
-<p>Over time, this will grow into a narrative record of the work — part journal,
-part technical notebook, part story.</p>
+<p>Over time, this will grow into a narrative record of the work — part journal, part technical notebook, part story.</p>
 <p>Use the menu items above to explore the different areas of the project.</p>
 
 
 </div>
 
 <article class="first-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Refining the Site Structure and First Blog Post
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Today I refined several parts of the new Hugo site as I continued building the public-facing workspace for the Moneypenny and Cletho projects.
+Key updates:
+Published my first real blog post and verified the local → GitHub Pages workflow end-to-end. Cleaned up the site navigation by keeping only the sections that make sense right now: Blog, Log, Architecture, and Decisions. Configured the homepage so that it no longer shows the most recent blog post. The homepage now serves purely as an introduction rather than a blog feed. Added a proper .gitignore to keep build artifacts like public/ out of version control. Ensured the GitHub Actions workflow remains clean and deploys correctly. The site is now significantly cleaner, easier to navigate, and better aligned with the narrative and functional goals of the project.
+</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-11-27 00:00:00 +0000 UTC'>November 27, 2025</span></footer>
+  <a class="entry-link" aria-label="post link to Refining the Site Structure and First Blog Post" href="http://localhost:1313/log/entry-002/"></a>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">Workspace Setup and Deployment
     </h2>
