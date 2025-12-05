@@ -25,6 +25,13 @@ title = 'As We May Yet Think'
     url = "/decisions/"
     weight = 40
 
+  [[menu.main]]
+    identifier = "stray-voltage"
+    name = "Stray Voltage"
+    url = "/stray-voltage/"
+    weight = 50
+
+
 [params]
 disableHomeList = true
 
