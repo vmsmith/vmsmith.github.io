@@ -1,5 +1,5 @@
 ---
-title: "The origins of Moneypenny"
+title: "The Origins of Moneypenny"
 date: '2025-11-29T20:54:21-05:00'
 draft: false
 ---
