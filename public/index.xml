@@ -6,26 +6,55 @@
     <description>Recent content in Welcome on As We May Yet Think</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 20:54:21 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A First Look at Memory</title>
+      <link>http://localhost:1313/blog/251205-memory-architecture-intro/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/251205-memory-architecture-intro/</guid>
+      <description>&lt;p&gt;A key to Moneypenny is memory management. An AI assistant is only as useful as what it remembers, what it forgets, and how gracefully it moves between the two.
+Before diving into memory itself, I want to distinguish between a program and a project.
+A program is an ongoing activity that coordinates multiple efforts in pursuit of a larger, strategic aim.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It may not have a fixed end date.&lt;/li&gt;
+&lt;li&gt;Its outputs are capabilities rather than one-off deliverables.&lt;/li&gt;
+&lt;li&gt;Success means: “Did we achieve the long-term benefits we intended?”
+A project, by contrast, is aimed at producing a specific outcome.&lt;/li&gt;
+&lt;li&gt;It has a defined start and finish.&lt;/li&gt;
+&lt;li&gt;Its output is a discrete deliverable: a system, a report, an event, a piece of writing.&lt;/li&gt;
+&lt;li&gt;Success means: “Did we deliver the thing, at quality, within scope?”
+Within this framing, the program Moneypenny supports is managing my life, and within that program, I have many projects—some tied to long-term goals, others more tactical or short-lived.
+With that foundation, we can talk about the types of memory Moneypenny should support.
+It’s helpful to think of them as a pyramid arranged by how quickly they change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Persistent Memory (bottom layer)
+This is the slowest-changing, most stable information. It comes in two forms:
+a. Personal Foundations
+Background elements about me that rarely change: lifelong goals, major values, the structure of my strategic plan, and simple biographical anchors. This layer provides continuity without storing unnecessary detail.
+b. Moneypenny’s Operating Foundations
+Her persona, her communication style, the rules she follows, and the boundaries I’ve set. These define how she behaves, regardless of the topic at hand.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The origins of Moneypenny</title>
       <link>http://localhost:1313/blog/first-post/</link>
       <pubDate>Sat, 29 Nov 2025 20:54:21 -0500</pubDate>
       <guid>http://localhost:1313/blog/first-post/</guid>
-      <description>&lt;p&gt;The original Moneypenny was meant to be an AI executive assistant to help manage the large amount of information associated with Cletho development. The personal Moneypenny I am developing here is meant to help me manage my own life and the goals and objectives I have. The initial specific functions of the application are:&lt;/p&gt;
+      <description>&lt;p&gt;The original Moneypenny was meant to be an AI executive assistant to help manage the large amount of information associated with Cletho development. The personal Moneypenny I am developing here is meant to help me manage my own life and the my goals and objectives within it. The initial specific functions of the application are to assist in:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Maintain a &amp;ldquo;To Do&amp;rdquo; list of things I want or need to do.&lt;/li&gt;
-&lt;li&gt;Track milestones and deliverables related to the “To Do” list.&lt;/li&gt;
-&lt;li&gt;Keep a daily time stamped, searchable journal of significant things I do on given days.&lt;/li&gt;
-&lt;li&gt;Maintain an ideas log of ideas I come up with.&lt;/li&gt;
-&lt;li&gt;Manage my calendar, which may include connections to other calendars.&lt;/li&gt;
-&lt;li&gt;Record important decisions, with rationale, date, and context.&lt;/li&gt;
-&lt;li&gt;Maintain an &amp;ldquo;Action Items&amp;rdquo; list of things other people are responsible for doing.&lt;/li&gt;
-&lt;li&gt;Index digital artifacts, to wit, keep a record of where articles, key discussion topics, document summaries, etc. can be found.&lt;/li&gt;
-&lt;li&gt;Hold and publish long-term reminders, e.g., such-and-such a subscription is expiring next month, Delaware taxes are due in a month, etc.&lt;/li&gt;
-&lt;li&gt;Perform topical research on subjects of interest.&lt;/li&gt;
-&lt;li&gt;Summarize documents and identify key points.&lt;/li&gt;
+&lt;li&gt;Managing my calendar (which may include connections to other calendars).&lt;/li&gt;
+&lt;li&gt;Maintaining a &amp;ldquo;To Do&amp;rdquo; list of things I want or need to do, and sending reminders for specified items.&lt;/li&gt;
+&lt;li&gt;Developing and managing project plans.&lt;/li&gt;
+&lt;li&gt;Keeping a time stamped, searchable journal of specified things I do over time.&lt;/li&gt;
+&lt;li&gt;Keeping an time stamped, searchable log of ideas I come up with.&lt;/li&gt;
+&lt;li&gt;Recording important decisions, with rationale and context, in an time stamped, searchable log.&lt;/li&gt;
+&lt;li&gt;Maintaining an &amp;ldquo;Open Loops&amp;rdquo; list of things other people are responsible for doing, such as returning lent items, doing things they said they&amp;rsquo;d do, etc.&lt;/li&gt;
+&lt;li&gt;Indexing digital artifacts, to wit, keep a record of where media articles, key discussion topics, document summaries, etc. can be found.&lt;/li&gt;
+&lt;li&gt;Holding and publishing long-term reminders, e.g., such-and-such a subscription is expiring next month, Delaware taxes are due in a month, etc.&lt;/li&gt;
+&lt;li&gt;Performing topical research on subjects of interest.&lt;/li&gt;
+&lt;li&gt;Summarizing documents and identifying key points.&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
     <item>
