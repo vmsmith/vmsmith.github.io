@@ -34,7 +34,7 @@ Her persona, her communication style, the rules she follows, and the boundaries 
 
 ---   
 
-**2. Episodic or Project Memory (middle layer)**   
+**2. Episodic or Project Memory (lower middle layer)**   
 This is information that changes but persists across time.
 Examples include:
 * A to-do list that evolves over time   
