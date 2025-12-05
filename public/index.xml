@@ -6,39 +6,34 @@
     <description>Recent content in Welcome on As We May Yet Think</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 05:31:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preventing Cognitive Decline</title>
+      <link>http://localhost:1313/stray-voltage/251205/</link>
+      <pubDate>Fri, 05 Dec 2025 05:31:18 +0100</pubDate>
+      <guid>http://localhost:1313/stray-voltage/251205/</guid>
+      <description>&lt;p&gt;There was an article in the December 2025 issue of The Atlantic that talked about how use of AI can cause cognitive decline (&amp;ldquo;The People Outsourcing Their Thinking to AI&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;One idea to prevent that was to have the application to tell users to take a break.&lt;/p&gt;
+&lt;p&gt;Another idea, related to Cletho, would be to have the application &amp;ldquo;gently&amp;rdquo; suggest to the user that they think about how to write a better prompt. Do this in a way that nudges the user towards applying/developing their critical thinking skills.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A First Look at Memory</title>
       <link>http://localhost:1313/blog/251205-memory-architecture-intro/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/251205-memory-architecture-intro/</guid>
-      <description>&lt;p&gt;A key to Moneypenny is memory management. An AI assistant is only as useful as what it remembers, what it forgets, and how gracefully it moves between the two.
-Before diving into memory itself, I want to distinguish between a program and a project.
-A program is an ongoing activity that coordinates multiple efforts in pursuit of a larger, strategic aim.&lt;/p&gt;
+      <description>&lt;p&gt;A key to Moneypenny is memory management. An AI assistant is only as useful as what it remembers, what it forgets, and how gracefully it moves between the two.&lt;/p&gt;
+&lt;p&gt;Before diving into memory itself, I want to distinguish between a program and a project.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;program&lt;/strong&gt; is an ongoing activity that coordinates multiple efforts in pursuit of a larger, strategic aim.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It may not have a fixed end date.&lt;/li&gt;
 &lt;li&gt;Its outputs are capabilities rather than one-off deliverables.&lt;/li&gt;
-&lt;li&gt;Success means: “Did we achieve the long-term benefits we intended?”
-A project, by contrast, is aimed at producing a specific outcome.&lt;/li&gt;
-&lt;li&gt;It has a defined start and finish.&lt;/li&gt;
-&lt;li&gt;Its output is a discrete deliverable: a system, a report, an event, a piece of writing.&lt;/li&gt;
-&lt;li&gt;Success means: “Did we deliver the thing, at quality, within scope?”
-Within this framing, the program Moneypenny supports is managing my life, and within that program, I have many projects—some tied to long-term goals, others more tactical or short-lived.
-With that foundation, we can talk about the types of memory Moneypenny should support.
-It’s helpful to think of them as a pyramid arranged by how quickly they change.&lt;/li&gt;
+&lt;li&gt;Success means: “Did we achieve the long-term benefits we intended?”&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Persistent Memory (bottom layer)
-This is the slowest-changing, most stable information. It comes in two forms:
-a. Personal Foundations
-Background elements about me that rarely change: lifelong goals, major values, the structure of my strategic plan, and simple biographical anchors. This layer provides continuity without storing unnecessary detail.
-b. Moneypenny’s Operating Foundations
-Her persona, her communication style, the rules she follows, and the boundaries I’ve set. These define how she behaves, regardless of the topic at hand.&lt;/p&gt;</description>
+&lt;p&gt;A &lt;strong&gt;project&lt;/strong&gt;, by contrast, is aimed at producing a specific outcome.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The origins of Moneypenny</title>
+      <title>The Origins of Moneypenny</title>
       <link>http://localhost:1313/blog/first-post/</link>
       <pubDate>Sat, 29 Nov 2025 20:54:21 -0500</pubDate>
       <guid>http://localhost:1313/blog/first-post/</guid>
