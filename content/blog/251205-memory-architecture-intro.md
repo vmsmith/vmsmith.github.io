@@ -26,11 +26,9 @@ With that foundation, we can talk about the types of memory Moneypenny should su
 **1. Persistent Memory (bottom layer)**        
 This is the slowest-changing, most stable information. It comes in two forms:    
 
-a. Personal Foundations   
-Background elements about me that rarely change: lifelong goals, major values, the structure of my strategic plan, and simple biographical anchors. This layer provides continuity without storing unnecessary detail.    
+* Personal Foundations. Background elements about me that rarely change: lifelong goals, major values, the structure of my strategic plan, and simple biographical anchors. This layer provides contxt and continuity for Moneypenny.         
 
-b. Moneypenny’s Operating Foundations    
-Her persona, her communication style, the rules she follows, and the boundaries I’ve set. These define how she behaves, regardless of the topic at hand.
+* Moneypenny’s Operating Foundations. Her persona, her communication style, the rules she follows, and the boundaries I’ve set. These define how she behaves, regardless of the topic at hand.
 
 ---   
 
@@ -40,6 +38,7 @@ Examples include:
 * A to-do list that evolves over time   
 * A journal that accumulates entries   
 * A project log that tracks milestones and progress   
+
 This layer represents the “living record” of what I’m working on.   
 
 ---    
@@ -47,12 +46,11 @@ This layer represents the “living record” of what I’m working on.
 **3. Session Memory (upper middle layer)**   
 Short-term, topic-specific context from a given session.
 
-This might include a small summary of what we were discussing or the next step in a conversation that’s still in progress. Some session details get saved to a project or journal; most fade unless I mark them as important.   
+This might include a small summary of what we were discussing or the next step in a conversation that’s still in progress. Some session details get saved to a project or journal; others fade unless I mark them as important.   
 
 ---    
 
 **4. Working Memory (top of the pyramid)**    
-This is the most ephemeral layer: the content of the current conversation’s context window—what’s needed to keep the immediate step coherent.
-It disappears quickly unless pulled downward into one of the more persistent layers. I will have a lot more to say about this layer in future posts.   
+This is the most ephemeral layer: the content of the current conversation’s context window—what’s needed to **keep the immediate step coherent.** It disappears quickly unless pulled downward into one of the more persistent layers. I will have a lot more to say about this layer in future posts.   
 
 
