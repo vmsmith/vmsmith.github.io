@@ -8,30 +8,45 @@ title = 'As We May Yet Think'
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 10
+    weight = 1
 
   [[menu.main]]
     name = "Log"
     url = "/log/"
-    weight = 20
+    weight = 2
 
   [[menu.main]]
     name = "Architecture"
     url = "/architecture/"
-    weight = 30
+    weight = 3
 
   [[menu.main]]
     name = "Decisions"
     url = "/decisions/"
-    weight = 40
+    weight = 4
 
   [[menu.main]]
     identifier = "stray-voltage"
     name = "Stray Voltage"
     url = "/stray-voltage/"
-    weight = 50
+    weight = 5
 
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 6
 
 [params]
-disableHomeList = true
+  disableHomeList = true
+  fuseJs = true
+  ShowSearch = true
+  disableSpecial1stPost = true
+  homeInfoParams = false
+  showNavLinks = true
 
+[params.search]
+  enabled = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]

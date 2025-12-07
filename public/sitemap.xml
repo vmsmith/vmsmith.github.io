@@ -2,41 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/decisions/</loc>
+    <loc>https://vmsmith.github.io/decisions/</loc>
     <lastmod>2025-12-05T06:31:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/decisions/251205-supabase-architecture/</loc>
+    <loc>https://vmsmith.github.io/decisions/251205-supabase-architecture/</loc>
     <lastmod>2025-12-05T06:31:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vmsmith.github.io/</loc>
     <lastmod>2025-12-05T06:31:34+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stray-voltage/251205/</loc>
+    <loc>https://vmsmith.github.io/stray-voltage/251205/</loc>
     <lastmod>2025-12-05T05:31:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stray-voltage/</loc>
+    <loc>https://vmsmith.github.io/stray-voltage/</loc>
     <lastmod>2025-12-05T05:31:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/251205-memory-architecture-intro/</loc>
+    <loc>https://vmsmith.github.io/blog/251205-memory-architecture-intro/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://vmsmith.github.io/blog/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first-post/</loc>
+    <loc>https://vmsmith.github.io/blog/first-post/</loc>
     <lastmod>2025-11-29T20:54:21-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/</loc>
+    <loc>https://vmsmith.github.io/log/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/entry-002/</loc>
+    <loc>https://vmsmith.github.io/log/entry-002/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/entry-001/</loc>
+    <loc>https://vmsmith.github.io/log/entry-001/</loc>
     <lastmod>2025-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vmsmith.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vmsmith.github.io/search/</loc>
+  </url><url>
+    <loc>https://vmsmith.github.io/tags/</loc>
   </url>
 </urlset>
