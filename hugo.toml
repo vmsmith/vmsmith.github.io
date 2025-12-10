@@ -36,7 +36,7 @@ title = 'As We May Yet Think'
     url = "/search/"
     weight = 6
 
-[params]
+[params]  
   disableHomeList = true
   fuseJs = true
   ShowSearch = true
@@ -44,9 +44,11 @@ title = 'As We May Yet Think'
   homeInfoParams = false
   showNavLinks = true
 
+
 [params.search]
   enabled = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+  section = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
