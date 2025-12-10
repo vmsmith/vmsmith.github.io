@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Logs on As We May Yet Think</title>
-    <link>https://vmsmith.github.io/log/</link>
+    <link>http://localhost:1313/log/</link>
     <description>Recent content in Logs on As We May Yet Think</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://vmsmith.github.io/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refining the Site Structure and First Blog Post</title>
-      <link>https://vmsmith.github.io/log/entry-002/</link>
+      <link>http://localhost:1313/log/entry-002/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://vmsmith.github.io/log/entry-002/</guid>
+      <guid>http://localhost:1313/log/entry-002/</guid>
       <description>&lt;p&gt;Today I refined several parts of the new Hugo site as I continued building the
 public-facing workspace for the Moneypenny and Cletho projects.&lt;/p&gt;
 &lt;p&gt;Key updates:&lt;/p&gt;
@@ -32,9 +32,9 @@ with the narrative and functional goals of the project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workspace Setup and Deployment</title>
-      <link>https://vmsmith.github.io/log/entry-001/</link>
+      <link>http://localhost:1313/log/entry-001/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://vmsmith.github.io/log/entry-001/</guid>
+      <guid>http://localhost:1313/log/entry-001/</guid>
       <description>&lt;p&gt;Today I published the new public-facing Hugo site that will serve as the working
 log and narrative record for the Cletho and Moneypenny projects. This marks the
 beginning of the development log.
