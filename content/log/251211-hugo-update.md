@@ -4,7 +4,7 @@ date: 2025-12-11T22:23:26+01:00
 draft: false
 category: "meta-systems"
 tags: ["hugo", "", ""]
-summary: "Updated Hugo to enhance "
+summary: "Updated Hugo to enhance information entry and search capabilities"
 ---
 
 * Activated RSS feeds on Mac and iPhone with NetNewsWire   
