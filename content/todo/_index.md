@@ -1,9 +1,9 @@
 ---
 draft: false
-hidden: true          # optional, see below
-searchHidden: true    # <-- this is the important one for search
-robotsNoIndex: true   # optional, keeps real web search engines away
+searchHidden: true    # keep it out of search index
+robotsNoIndex: true   # optional: keep “real” search engines off it
 ---
+
 
 
 ## To Do List
