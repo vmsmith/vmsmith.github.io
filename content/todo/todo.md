@@ -8,12 +8,10 @@ robotsNoIndex: true     # optional: keep web crawlers away
 
 
 ### Near-Term Items 
-* Finish off Hugo functionality
-  * Templates for remaining menu items  
-  * Fleshed out template for decisions   
+* Finish off Hugo functionality    
   * Remove latest posts from home page  
-  * Naming conventions for `.md` files     
-  * Use RSS somehow   
+  * Can new post open in conjunction with creation?
+  * Insert tags in older posts
 * Map out next steps in Moneypenny    
 
 ### Longer-Term Items
