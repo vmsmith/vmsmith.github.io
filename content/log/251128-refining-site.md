@@ -1,6 +1,6 @@
 ---
 title: "Refining the Site Structure and First Blog Post"
-date: 2025-11-27
+date: 2025-11-28
 draft: false
 ---
 
