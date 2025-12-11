@@ -1,6 +1,10 @@
----   
-draft: false
 ---
+draft: false
+hidden: true          # optional, see below
+searchHidden: true    # <-- this is the important one for search
+robotsNoIndex: true   # optional, keeps real web search engines away
+---
+
 
 ## To Do List
 
