@@ -1,7 +1,7 @@
 ---
 draft: false
-searchHidden: true    # keep it out of search index
-robotsNoIndex: true   # optional: keep “real” search engines off it
+searchHidden: true    # keep it out of Hugo search
+robotsNoIndex: true   # optional: keep Google/etc. away
 ---
 
 
