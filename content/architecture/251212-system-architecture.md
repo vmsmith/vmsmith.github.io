@@ -4,7 +4,7 @@ date: 2025-12-12
 draft: false
 category: "meta-systems"
 tags: ["architecture"]
-summary: "A high-level reference architecture for Moneypenny, describing major subsystems, responsibilities, and interfaces."
+summary: "A high-level system architecture for Moneypenny, describing major subsystems, responsibilities, and interfaces."
 ---
 
 ## Overview
@@ -105,5 +105,5 @@ Several principles are implicit in this architecture:
 
 ## Role of This Architecture
 
-This diagram and description constitute a **reference architecture**, not an implementation blueprint. They define conceptual boundaries, responsibilities, and interface relationships, while leaving room for iteration as real use cases and constraints emerge.
+This diagram and description constitute an operational view in a **system architecture**, not an implementation blueprint. They define conceptual boundaries, responsibilities, and interface relationships, while leaving room for iteration as real use cases and constraints emerge.
 
