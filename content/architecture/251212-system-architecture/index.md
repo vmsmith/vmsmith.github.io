@@ -36,14 +36,18 @@ Key characteristics:
 
 The Orchestration component is the central coordinator of the system. It governs control flow, manages session context, enforces policies, and mediates all interaction between cognition, persistence, and external services.
 
+Orchestration owns all ephemeral and long-lived workflow state, including conversational context, pending actions, and multistep task progression.
+
+Orchestration determines when cognition is invoked and how its outputs are applied. It does not create or modify the semantic content of decisions.
+
 Orchestration does not perform reasoning itself. Instead, it determines *what happens next* and *which capabilities are invoked*, acting as the sole gateway to the Runtime Environment.
 
 Responsibilities include:
 
-- Routing requests and responses  
-- Enforcing constraints and permissions  
-- Sequencing actions and workflows  
-- Mediating access to persistence and external services  
+* Routing requests and responses  
+* Enforcing constraints and permissions  
+* Sequencing actions and workflows  
+* Mediating access to persistence and external services  
 
 This makes Orchestration the primary point of control for safety, auditability, and future extensibility.
 
