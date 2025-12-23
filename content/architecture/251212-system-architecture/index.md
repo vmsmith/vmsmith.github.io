@@ -25,10 +25,10 @@ Presentation currently supports **text-based interaction**, with **voice** and *
 
 Key characteristics:
 
-- Modality-agnostic  
-- Transport-agnostic  
-- Contains no business logic or cognition  
-- Has no direct access to persistence or external services  
+* Modality-agnostic.  
+* Transport-agnostic.  
+* Intentionally stateless with respect to business logic. Any ‘session continuity’ is surfaced from Orchestration, not stored in the interface layer.
+* No direct access to persistence or external services.    
 
 ---
 
