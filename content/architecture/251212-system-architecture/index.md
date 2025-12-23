@@ -102,15 +102,27 @@ External services may be integrated via both pull-based queries and push-based e
 
 Several principles are implicit in this architecture:
 
-- **Separation of concerns**: Interaction, coordination, cognition, and state are explicitly separated.  
-- **Controlled boundaries**: Trust and capability boundaries are explicit and mediated.  
-- **Minimal coupling**: Internal subsystems communicate directly; external systems are isolated behind APIs.  
-- **Extensibility**: New modalities, models, services, or persistence mechanisms can be added without restructuring the system.  
-- **Avoidance of rigid n-tier models**: The architecture reflects operational reality rather than legacy web-stack conventions.
+* **Separation of concerns**: Interaction, coordination, cognition, and state are explicitly separated.   
+* **Controlled boundaries**: Trust and capability boundaries are explicit and mediated.   
+* **Minimal coupling**: Internal subsystems communicate directly; external systems are isolated behind APIs.   
+* **Extensibility**: New modalities, models, services, or persistence mechanisms can be added without restructuring the system.   
+* **Avoidance of rigid n-tier models**: The architecture reflects operational reality rather than legacy web-stack conventions.    
+* **Human-in-the-Loop**: Human authority is always preserved; automation is mediated through explicit boundaries.
+* **Determinism**: Deterministic boundaries ensure that nondeterministic cognition does not leak into system-critical behavior.   
 
 ---
 
 ## Role of This Architecture
 
 This diagram and description constitute an operational view in a **system architecture**, not an implementation blueprint. They define conceptual boundaries, responsibilities, and interface relationships, while leaving room for iteration as real use cases and constraints emerge.
+
+This architecture deliberately leaves implementation choices open (e.g., whether workflows are code, state machines, policy engines, or LLM plans). Decisions will align with real-world usage patterns as they emerge.
+
+## Authority Model   
+
+* Presentation: Has no authority; expresses user intent.
+* Cognition: Can propose actions.
+* Orchestration: Has full authority over what actions execute.
+* External Services: Can provide information but cannot commit state changes without Orchestration approval.
+* Persistence: Is authoritative and mutation occurs only through Orchestration-mediated operations.
 
