@@ -55,9 +55,11 @@ This makes Orchestration the primary point of control for safety, auditability, 
 
 ## Cognition Subsystem
 
-The Cognition Subsystem is responsible for interpretation, reasoning, and response generation. It transforms user input and system context into structured outputs and proposed actions.
+The Cognition Subsystem is responsible for interpretation, reasoning, and response generation. It transforms user input and system context into structured outputs and proposed actions. It produces proposals, not commitments. All actions remain subject to Orchestration review and policy enforcement.
 
 Cognition operates as an internal subsystem, invoked via direct function calls from Orchestration. This reflects a design choice favoring simplicity, testability, and low latency in early development.
+
+Cognition is nondeterministic by nature; Orchestration provides determinism around it.
 
 Interaction with large language models (LLMs) occurs exclusively through a clearly defined API boundary, isolating the system from vendor-specific assumptions and enabling future model substitution.
 
