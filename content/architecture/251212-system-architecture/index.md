@@ -13,7 +13,7 @@ Moneypenny is designed as a modular, extensible system whose primary purpose is 
 
 At a high level, the system is composed of three primary subsystems—**Presentation**, **Orchestration**, and **Cognition**—operating within a shared **Runtime Environment** that provides persistence and access to external services.
 
-![Moneypenny High-Level Architecture](images/251223-Architecture-System-Moneypenny_V1.0.png)
+![Moneypenny High-Level Architecture](images/251223-Architecture-System-Moneypenny-V1.0.png)
 
 ---
 
