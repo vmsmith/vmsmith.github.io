@@ -69,17 +69,16 @@ Cognition does not directly access persistence or external services. Instead, it
 
 ## Runtime Environment
 
-The Runtime Environment represents the operational substrate in which Moneypenny runs. It encompasses both internal state and external capabilities, while clearly distinguishing between what the system owns and what it depends upon.
+The Runtime Environment provides the operational substrate: compute, networking, identity, secrets management, and observability. It is capability-oriented and intentionally unaware of Moneypenny’s semantics.
 
 ### Persistence
 
-Persistence provides durable internal state, including (but not limited to):
+Persistence encompasses the following:  
+* System of Record (authoritative user/system state)
+* Working Memory (transient cache, context windows, session summaries)
+* Knowledge Store (retrieval layer: embeddings, indexes, documents)
 
-- Databases  
-- Memory stores  
-- Logs  
-- Files  
-- Vector or semantic indexes  
+These are conceptually separate even if implemented on shared infrastructure.  
 
 Persistence is treated as the system of record and is fully controlled by Moneypenny. All access is mediated by Orchestration.
 
@@ -93,7 +92,9 @@ External Services include third-party systems such as:
 - Notion  
 - Other SaaS platforms or APIs  
 
-These services are accessed via APIs, MCP, webhooks, or similar mechanisms. They are treated as external capabilities rather than storage and are not assumed to be reliable, synchronous, or under system control.
+These services are accessed via APIs, MCP, webhooks, or similar mechanisms. They are treated as external capabilities rather than storage and are not assumed to be reliable, synchronous, or under system control. They can be incomplete and possibly inconsistent sources of truth; Persistence remains the authoritative state.
+
+External services may be integrated via both pull-based queries and push-based event streams, but neither is assumed to be reliable or complete.
 
 ---
 
