@@ -78,7 +78,14 @@ Persistence encompasses the following:
 * Working Memory (transient cache, context windows, session summaries)
 * Knowledge Store (retrieval layer: embeddings, indexes, documents)
 
-These are conceptually separate even if implemented on shared infrastructure.  
+These are conceptually separate even if implemented on shared infrastructure.
+
+Persistence provides durable internal state, including (but not limited to):    
+* Databases
+* Memory stores
+* Logs
+* Files
+* Vector or semantic indexes
 
 Persistence is treated as the system of record and is fully controlled by Moneypenny. All access is mediated by Orchestration.
 
