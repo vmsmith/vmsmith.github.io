@@ -2,6 +2,9 @@
 title: "A First Look at Memory"
 date: 2025-12-05
 draft: false
+category: ""
+tags: [""]
+summary: "Memory management is key, and there are four different types of memory"
 ---   
 
 A key to Moneypenny is memory management. An AI assistant is only as useful as what it remembers, what it forgets, and how gracefully it moves between the two.  
