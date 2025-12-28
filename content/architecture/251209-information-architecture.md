@@ -2,13 +2,18 @@
 title: "Information Architecture: Categories and Tags"
 date: 2025-12-06T00:00:00
 draft: false
+category: ""
+tags: [""]
+summary: "An overview of the information architecture"
 ---
 
 This document defines the controlled vocabulary of **categories** and **tags** used across this site.  
-Its purpose is to support consistent retrieval, long-term knowledge management, and future integration with CTL  Moneypenny and Cletho.
+Its purpose is to support consistent retrieval, long-term knowledge management, and future integration with CTL Moneypenny and Cletho.
 
 Categories are stable, high-level conceptual buckets.  
 Tags are cross-cutting descriptors used sparingly to enhance findability.
+
+My information architectures are always informed by the 1956 paper, "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information," by George Miller. As the title implies, there are average limits to how much people can process. With that in mind, I've deliberately kept the number of categories to nine or fewer, and the same with the number of tags in each category.  
 
 Each post receives **one category** and a small number of meaningful tags.
 
