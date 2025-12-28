@@ -1,6 +1,6 @@
 ---
 title: "Architecting Moneypenny"
-date: 2025-12-12T08:05:53+01:00
+date: 2025-12-12
 draft: false
 category: "meta-system"
 tags: ["architecture"]
