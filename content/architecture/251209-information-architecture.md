@@ -1,9 +1,9 @@
 ---
 title: "Information Architecture: Categories and Tags"
-date: 2025-12-06T00:00:00
+date: 2025-12-06
 draft: false
-category: ""
-tags: [""]
+category: "meta-systems"
+tags: ["IA", "search"]
 summary: "An overview of the information architecture"
 ---
 
@@ -53,7 +53,7 @@ User-facing surfaces across text, voice, or graphics, and early research on how 
 
 ### **meta-systems**
 Topics about the development of Moneypenny itself: process improvements, debugging, versioning notes, retrospectives, and system evaluations.  
-**Example tags:** `system-design`, `versioning`, `refactoring`, `debugging`, `evaluation`, `logging`, `milestones`, `workflow-tuning`
+**Example tags:** `system-design`, `versioning`, `refactoring`, `debugging`, `evaluation`, `logging`, `IA`, `search`
 
 ---
 
