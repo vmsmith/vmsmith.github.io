@@ -4,8 +4,16 @@ draft: false
 title: 'Supabase Architecture'
 ---   
 
-### Single Supabase Project with Future Separation Path
+### Title
+Single Supabase Project with Future Separation Path
 
+### Status
+Accepted
+
+### Context   
+It seems that the minimum Supabase account is $25.00 (USD) a month, but each additional project is an additional $10.00. With these three projects, that would be $45.00 a month, which right now is a bit more than I'd like to spend.
+
+### Decision   
 For the initial development of personal Moneypenny, CTL Moneypenny, and Cletho, we will use a single Supabase project to simplify operations and control costs. To preserve future flexibility, each application will be architected as a self-contained module within that shared project.
 
 This design includes:
