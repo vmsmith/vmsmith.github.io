@@ -2,6 +2,9 @@
 title: "The Origins of Moneypenny"
 date: '2025-11-29'
 draft: false
+category: ""
+tags: [""]
+summary: "The motivation to create personal Moneypenny"
 ---
 
 The original Moneypenny was meant to be an AI executive assistant to help manage the large amount of information associated with Cletho development. As I thought about how I might go about developing an AI EA, I thought that it might be good to develop a personal Moneypenny to help me manage my own life and the my goals and objectives within it. In doing so, I would also learn a lot of things that might be transferable to Clear Thought Labs (CTL) Moneypenny. 
