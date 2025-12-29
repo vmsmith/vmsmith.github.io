@@ -1,6 +1,6 @@
 ---
 title: "The Origins of Moneypenny"
-date: '2025-11-29'
+date: '2025-12-01'
 draft: false
 category: "meta-systems"
 tags: [""]
@@ -23,7 +23,9 @@ I've done my fair share of project managing over the years, and I firmly believe
 
 So there will be tension on this project, and my challenge will be to know when things are good enough to move on.
 
-I have a couple of technical assistants who will hopefully help me keep moving forward. These are two AIs from two different accounts. What I do is ask one a question, like, 
+I have a couple of technical assistants who will hopefully help me keep moving forward. These are AIs from different AI accounts. 
+
+What I do is ask one a question, like, "Can you list the various types of memory I'll be dealing with in developing Moneypenny, and map them on to the various architectural components?" Then I will take that output and go to the second AI (in an entirely separate account), and say, "I developed this list the various types of memory I'll be dealing with in developing Moneypenny, and mapped them on to the various architectural components. What do you think?" And that AI will usually give me a bunch of suggested improvements. Then I go back to the original AI and say, "OK, I've given it some thought, and came up with this. What do you think?" And I'll do this until we reach some sort of convergence. During this process I am applying my own eye and mind to it, and I don't pass the output of one AI to the other until I have a general understanding of it and more or less agree with it. Once I have the converged output, though, I will take some serious time to dive into it, fully understand it, and decide if I agree with it. Often I find that even though the two AIs have reached an agreement, once I do a deep dive and apply my own lens to it, there are still some tweaks to be made. Often these tweaks are semantic. The AIs speak in what I call AI-ese, and even though I can generally understand it, I know that an outsider would have trouble and I end up re-writing it in more common terminology.
 
 
 
