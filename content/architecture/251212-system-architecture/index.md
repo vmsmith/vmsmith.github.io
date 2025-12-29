@@ -1,6 +1,6 @@
 ---
 title: "Moneypenny — High-Level System Architecture"
-date: 2025-12-12
+date: 2025-12-23
 draft: false
 category: "meta-systems"
 tags: ["architecture"]
