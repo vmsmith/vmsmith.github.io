@@ -4,7 +4,7 @@ date: '2025-12-01'
 draft: false
 category: "meta-systems"
 tags: [""]
-summary: "The motivation to create personal Moneypenny"
+summary: "The motivation to create personal Moneypenny and how I'm proceeding"
 ---
 
 The original Moneypenny was meant to be an AI executive assistant to help manage the large amount of information associated with Cletho development. As I thought about how I might go about developing an AI EA, I thought that it might be good to develop a personal Moneypenny to help me manage my own life and the my goals and objectives within it. In doing so, I would also learn a lot of things that might be transferable to CTL Moneypenny and Cletho.
