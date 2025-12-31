@@ -8,7 +8,7 @@ summary: "Regardless of the size of the context window, the amount of informatio
 ---
 
 
-There is a post on Reddit by `Low-Flow-6571` about managing the of information in the context window that might be of use at some point. From the post:
+There is a post on Reddit by `Low-Flow-6572` about managing the amount of information in the context window that might be of use at some point. From the post:
 
 >There’s a massive trend right now towards "Infinite Context". The marketing pitch is: "Just dump your entire knowledge base into the prompt, the model will figure it out."
 
