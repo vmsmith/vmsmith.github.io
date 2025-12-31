@@ -18,4 +18,6 @@ There is a post on Reddit by `Low-Flow-6572` about managing the amount of inform
 
 >**The Hypothesis:** I believe we should focus less on "how much can we fit" and more on "how dense is the information."
 
-[Are We Ignoring "Data Entropy" in the Race for Massive Context Windows](https://old.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)   
+The Reddit post: [Are We Ignoring "Data Entropy" in the Race for Massive Context Windows](https://old.reddit.com/r/artificial/comments/1pyoqej/are_we_ignoring_data_entropy_in_the_race_for/)   
+
+The GitHub site: [Entropy Guard](https://github.com/DamianSiuta/entropyguard/blob/main/README.md)    
