@@ -1,7 +1,10 @@
 ---   
+title: "Preventing Cognitive Decline"
 date: '2025-12-05T05:31:18+01:00'
 draft: false
-title: 'Preventing Cognitive Decline'
+category: ""  
+tags: ["UX"]
+summary: "Ideas for the AWMYT imperative to sharpen cognitive abilities" 
 ---   
 
 There was an article in the December 2025 issue of The Atlantic that talked about how use of AI can cause cognitive decline ("The People Outsourcing Their Thinking to AI")
