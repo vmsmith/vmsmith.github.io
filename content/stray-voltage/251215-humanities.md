@@ -4,6 +4,7 @@ date: 2025-12-15
 draft: false
 category: "meta-system"
 tags: ["UX", "CTL"]
+summary: "Take a lesson from Apple and NRL: fold in liberal arts and humanities"
 ---
 
 Steve Jobs is famous for (among other things) having said, "It's in Apple's DNA that technology alone is not enough. It's technology married with liberal arts, married with the humanities, that yields the results that make our hearts sing.”
