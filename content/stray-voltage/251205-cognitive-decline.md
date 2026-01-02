@@ -1,9 +1,9 @@
 ---   
 title: "Preventing Cognitive Decline"
-date: '2025-12-05T05:31:18+01:00'
+date: 2025-12-05
 draft: false
-category: ""  
-tags: ["UX"]
+category: "Orchestration Layer"  
+tags: ["UX", "orchestration"]
 summary: "Ideas for the AWMYT imperative to sharpen cognitive abilities" 
 ---   
 
