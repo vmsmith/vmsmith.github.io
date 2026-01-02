@@ -3,7 +3,8 @@ title: "Considering Angular for the Front End"
 date: 2025-12-10
 draft: false
 category: "user-interface"
-tags: ["frontend", "angular", "UX"]
+tags: ["frontend", "angular", "UI"]  
+summary: "Angular and other frameworks for a front end"
 ---
 
 A note to explore whether Angular might be a suitable candidate for the Moneypenny UI layer. 
