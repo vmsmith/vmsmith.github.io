@@ -1,6 +1,6 @@
 ---   
 title: "Big Picture Roadmap - Part 1 - First Cut"
-date: 260102
+date: 26-01-02
 draft: false  
 category: meta-systems
 tags: ["roadmap"]
