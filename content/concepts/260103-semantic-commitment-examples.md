@@ -9,7 +9,8 @@ summary: "Examples of semantic commitment for the long-term roadmap"
 
 ## Five Examples of Semantic Commitment   
 1. Note vs Decision vs Tentative Idea   
-2. Memory Promotion   
+2. Memory Promotion
+3. Authority Boundaries  
 
 ### Example 1: Note vs Decision vs Tentative Idea
 
@@ -71,3 +72,30 @@ What changes later is how often the question is triggered—not whether it exist
 Return to [Big Picture Roadmap - Part I](https://vmsmith.github.io/blog/260102-roadmap-big-picture-part1/)     
 
 ---  
+
+### Example 3: Authority Boundaries
+
+#### Situation   
+You ask:    
+“Just add that to my calendar.”   
+
+#### Semantic commitment achieved by:
+The system knows whether it is:    
+* advisory   
+* executory   
+
+It either:   
+* asks for confirmation, or     
+* proceeds under previously granted authority
+
+#### Commitment outcomes:   
+Calendar writes always have:   
+* provenance (“added by system, confirmed by user”)
+* reversibility
+
+#### Key point:    
+Authority is not inferred from convenience. It is a governed semantic state. 
+
+Return to [Big Picture Roadmap - Part I](https://vmsmith.github.io/blog/260102-roadmap-big-picture-part1/)     
+
+--- 
