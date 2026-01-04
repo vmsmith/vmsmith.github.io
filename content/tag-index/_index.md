@@ -5,7 +5,7 @@ draft: false
 summary: "Categories and their associated tags, organized for clarity."
 ---
 
-This page lists categories and their associated tags.  
+This page lists categories and their associated tags. The organizing principle is George Miller's 1956 article, "[The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)." This informs the number of categories, and the number of tags in each category. 
 
 Tags are kept intentionally sparse and high-leverage to support search, organization, and cross-referencing across the Moneypenny project.
 
