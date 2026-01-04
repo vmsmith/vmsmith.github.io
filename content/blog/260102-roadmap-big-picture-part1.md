@@ -1,6 +1,6 @@
 ---   
 title: "Big Picture Roadmap - Part 1 - First Cut"
-date: 26-01-02
+date: 2026-01-04
 draft: false  
 category: meta-systems
 tags: ["roadmap"]
@@ -84,25 +84,34 @@ Semantic commitment questions ask:
 * Is this advisory, descriptive, or prescriptive?    
 
 These are questions of what it means to do the thing at all, and again, they are important because they determine what the system is obligated to do later.   
-These distinctions only become clear in practice; representative examples are documented here and are treated as part of the roadmap itself: 
-[Semantic commitment examples](link to a separate page) (e.g., decisions vs. notes, memory promotion, authority boundaries, summaries, and reframing)    
+
+These distinctions only become clear in practice; representative examples are documented here and are treated as part of the roadmap itself:   
+[Semantic commitment examples](https://vmsmith.github.io/concepts/260103-semantic-commitment-examples/) (e.g., decisions vs. notes, memory promotion, authority boundaries, summaries, and reframing)    
 
 ### What risks Phase 1 is designed to surface    
-**Conceptual drift**   
 
-Without explicit identity, tone, and boundaries, systems become inconsistent. They answer similar questions differently on different days and overreach in subtle ways. Phase 1 forces these rules to be made explicit.
-**Unbounded or accidental memory**   
-Memory is one of the most consequential capabilities an AI system can have. Once information is treated as durable memory, it begins to shape future reasoning and behavior. Phase 1 defines what information may persist, under what conditions, and with what provenance. Without this, tentative or contextual information can quietly harden into assumed truth.
-**Implicit authority**  
-If it is unclear when the system is advising versus deciding, users lose agency without noticing. Phase 1 establishes clear lines: when the system must ask, when it may suggest, and when it must refuse.
-### What Phase 1 produces
-The contextual output of Phase 1 is not code. It is specifications:
-* Persona and interaction principles
-* Tone and boundary rules
-* Memory semantics and lifecycle definitions
-* Architectural responsibilities
-* Core data schemas and provenance expectations
-A core goal of Phase 1 is to understand Personal Moneypenny’s behavioral rules as clearly as its surface-level capabilities. That is to say, when it is as easy to explain what Personal Moneypenny is allowed to do, what it is not allowed to do, and how conflicts are resolved as it is to explain Personal Moneypenny’s functional capabilities. At that point, new capabilities can be deliberately added, rather than allowing new behaviors to emerge implicitly through implementation details.
-Finally, it should be noted that because the developer and the primary user are the same person—to wit, me—this makes assumptions easier to surface but also easier to overlook. This will be something to watch carefully.
+**Conceptual drift**   
+Without explicit identity, tone, and boundaries, systems become inconsistent. They answer similar questions differently on different days and overreach in subtle ways. Phase 1 forces these rules to be made explicit.   
+
+**Unbounded or accidental memory**    
+Memory is one of the most consequential capabilities an AI system can have. Once information is treated as durable memory, it begins to shape future reasoning and behavior. Phase 1 defines what information may persist, under what conditions, and with what provenance. Without this, tentative or contextual information can quietly harden into assumed truth.   
+
+**Implicit authority**    
+If it is unclear when the system is advising versus deciding, users lose agency without noticing. Phase 1 establishes clear lines: when the system must ask, when it may suggest, and when it must refuse.    
+
+### What Phase 1 produces    
+The contextual output of Phase 1 is not code. It is specifications:   
+* Persona and interaction principles   
+* Tone and boundary rules    
+* Memory semantics and lifecycle definitions   
+* Architectural responsibilities    
+* Core data schemas and provenance expectations    
+
+A core goal of Phase 1 is to understand Personal Moneypenny’s behavioral rules as clearly as its surface-level capabilities. That is to say, when it is as easy to explain what Personal Moneypenny is allowed to do, what it is not allowed to do, and how conflicts are resolved as it is to explain Personal Moneypenny’s functional capabilities. At that point, new capabilities can be deliberately added, rather than allowing new behaviors to emerge implicitly through implementation details.    
+
+Finally, it should be noted that because the developer and the primary user are the same person—to wit, me—this makes assumptions easier to surface but also easier to overlook. This will be something to watch carefully.   
+
+---   
+
 Parts II (CTL Moneypenny) and III (Cletho) to follow soon. 
 
