@@ -7,6 +7,9 @@ tags: [""]
 summary: "Examples of semantic commitment for the long-term roadmap"
 ---  
 
+## Five Examples of Semantic Commitment   
+1. Note vs Decision vs Tentative Idea
+2. 
 
 ### Example 1: Note vs Decision vs Tentative Idea
 
@@ -33,7 +36,7 @@ Conflicts must be surfaced later.
 #### What’s important:
 The system does not infer commitment from phrasing. Commitment is explicitly resolved.
 
-[Return to roadmal]()
+Return to [Big Picture Roadmap - Part I](https://vmsmith.github.io/blog/260102-roadmap-big-picture-part1/)   
 
 ---  
 
@@ -65,6 +68,6 @@ It responds:
 This exact rule still applies in CTL Moneypenny and Cletho.
 What changes later is how often the question is triggered—not whether it exists.
 
-[Return to roadmap()   
+Return to [Big Picture Roadmap - Part I](https://vmsmith.github.io/blog/260102-roadmap-big-picture-part1/)     
 
 ---  
