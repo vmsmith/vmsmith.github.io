@@ -8,8 +8,8 @@ summary: "Examples of semantic commitment for the long-term roadmap"
 ---  
 
 ## Five Examples of Semantic Commitment   
-1. Note vs Decision vs Tentative Idea
-2. 
+1. Note vs Decision vs Tentative Idea   
+2. Memory Promotion   
 
 ### Example 1: Note vs Decision vs Tentative Idea
 
