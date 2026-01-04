@@ -79,6 +79,6 @@ Process improvements, debugging, refactoring, and internal evaluations.
 Because there always has to be a miscellaneous category, and the tags will grow organically. 
 
 **Tags**
-`local-models`
+`local-models`, "long-term"
 
 
