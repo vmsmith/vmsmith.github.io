@@ -3,7 +3,7 @@ title: "Big Picture Roadmap - Part 1 - First Cut"
 date: 2026-01-04
 draft: false  
 category: meta-systems
-tags: ["roadmap"]
+tags: ["roadmap", "long-term"]
 summary: "A first look at Part I of the roadmap from here to Cletho"
 ---   
 
