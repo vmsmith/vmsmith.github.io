@@ -7,29 +7,44 @@ tags: ["roadmap"]
 summary: "A first look at Part I of the roadmap from here to Cletho"
 ---   
 
-## From Here to Cletho: A Risk-First Roadmap
-This is the first of three posts that will attempt to map out the path from here to Cletho. This post deals with two things: (1) the broad contextual issues, and (2) the approach to Personal Moneypenny. The second and third posts will deal with CTL Moneypenny and Cletho, respectively.
-This overall roadmap is not a contract. It is a working theory for how to make progress while keeping failure modes visible, localized, and correctable. As such, it will almost certainly evolve over time.
-If you come from any kind of system-development background, when you think about a roadmap you probably imagine developing a sequence of features. In the case of an AI system, you might think: memory first, then retrieval, then tools, then agents. That framing is understandable, and largely correct, but it is not the entire way to think about this project. Feature delivery is important—and there will be a development track for that—but the central challenge here is a bit different from a standard IT system.
+## From Here to Cletho: A Risk-First Roadmap   
+
+This is the first of three posts that will attempt to map out the path from here to Cletho. This post deals with two things: (1) the broad contextual issues, and (2) the approach to Personal Moneypenny. The second and third posts will deal with CTL Moneypenny and Cletho, respectively.   
+
+This overall roadmap is not a contract. It is a working theory for how to make progress while keeping failure modes visible, localized, and correctable. As such, it will almost certainly evolve over time.   
+
+If you come from any kind of system-development background, when you think about a roadmap you probably imagine developing a sequence of features. In the case of an AI system, you might think: memory first, then retrieval, then tools, then agents. That framing is understandable, and largely correct, but it is not the entire way to think about this project. Feature delivery is important—and there will be a development track for that—but the central challenge here is a bit different from a standard IT system.   
+
 We are ultimately building a system that remembers, reasons, and influences how people think over time. The underlying technology—an AI language model—is inherently non-deterministic: the system will not behave identically every time, even under similar conditions. And it will be interacting with human users whose behavior is itself unpredictable.
 Such a system must be dependable in its commitments from the start. By this, we don’t mean that it must always be correct. We mean that it must behave consistently with its stated role, boundaries, and trust contract, even when it is uncertain or mistaken. In this context, flawless behavior refers to process rather than outcome: asking for clarification when it should, or expressing uncertainty when uncertainty is present.
 When the system does fail, those failures must be visible, understandable, and correctable to the developer (rather than quietly accumulating), and the user’s trust must be maintained. Here, failure does not mean being wrong; it means a breakdown in the system’s behavioral guarantees. In other words, failure means deviating from expectations rather than producing an incorrect answer. Examples would include subtly reframing a user’s problem without making that reframing explicit or treating a prior summary as authoritative without saying so.
-Because the system itself is natively non-deterministic, and because the humans it interacts with are inherently unpredictable, neither side of the interaction can be fully specified in advance. The central challenge, then, is not achieving perfection or eliminating failure, but managing risk under uncertainty, so that Cletho both performs and fails in explicitly defined, acceptable ways.
-This post is the first of three that, together, lay out a roadmap from today’s start to a Cletho proof-of-concept, with two deliberate intermediate systems: Personal Moneypenny and CTL Moneypenny. In addition to fulfilling their stated roles as executive assistants, a key purpose of these intermediate systems is to develop, test, and refine the rules, boundaries, and recovery mechanisms that will ultimately govern Cletho itself.
-In that context, the two Moneypennys are not earlier versions of Cletho. They are environments in which different kinds of risk can be surfaced, understood, and constrained before Cletho exists at all.
+Because the system itself is natively non-deterministic, and because the humans it interacts with are inherently unpredictable, neither side of the interaction can be fully specified in advance. The central challenge, then, is not achieving perfection or eliminating failure, but managing risk under uncertainty, so that Cletho both performs and fails in explicitly defined, acceptable ways.   
+
+This post is the first of three that, together, lay out a roadmap from today’s start to a Cletho proof-of-concept, with two deliberate intermediate systems: Personal Moneypenny and CTL Moneypenny. In addition to fulfilling their stated roles as executive assistants, a key purpose of these intermediate systems is to develop, test, and refine the rules, boundaries, and recovery mechanisms that will ultimately govern Cletho itself.   
+
+In that context, the two Moneypennys are not earlier versions of Cletho. They are environments in which different kinds of risk can be surfaced, understood, and constrained before Cletho exists at all.   
  
-### The guiding principles
-Several principles govern this roadmap.
-** 1. Risk before capability**
-We prioritize confronting the riskiest unknowns early—especially those involving trust, memory, authority, and drift—before expanding the system’s capabilities. Risk does not disappear phase by phase; what changes is which risks dominate, and whether they are surfaced deliberately or allowed to emerge implicitly.
-The roadmap is structured to make the most consequential risks visible while they are still inexpensive to understand and correct.
-**2. Reusable components over one-off solutions**
-Every phase is designed to produce durable artifacts—specifications, schemas, policies, workflows, and evaluation criteria—that carry forward. These artifacts are not just implementation details; they are the mechanisms by which behavior, boundaries, and failure modes remain viable over time.
-**3. Early evaluations**
-Evaluation is treated as a critical component from the start, rather than a downstream concern to be addressed later. The same behavioral criteria used to define persona, boundaries, authority, memory semantics, failure handling, and other core system commitments in Personal Moneypenny will be used to evaluate those behaviors throughout the system’s evolution. As each system evolves, evaluation criteria will be developed, refined, and carried forward. What will change across phases is not what “good behavior” means, but the conditions under which it is exercised. This will allow evaluation to act as a stabilizer: making early decisions durable, later complexity testable, and subtle failures visible before they become entrenched.
+### The guiding principles   
+
+Several principles govern this roadmap.   
+
+** 1. Risk before capability**   
+
+We prioritize confronting the riskiest unknowns early—especially those involving trust, memory, authority, and drift—before expanding the system’s capabilities. Risk does not disappear phase by phase; what changes is which risks dominate, and whether they are surfaced deliberately or allowed to emerge implicitly.   
+
+The roadmap is structured to make the most consequential risks visible while they are still inexpensive to understand and correct.   
+
+**2. Reusable components over one-off solutions**   
+
+Every phase is designed to produce durable artifacts—specifications, schemas, policies, workflows, and evaluation criteria—that carry forward. These artifacts are not just implementation details; they are the mechanisms by which behavior, boundaries, and failure modes remain viable over time.   
+
+**3. Early evaluations**   
+
+Evaluation is treated as a critical component from the start, rather than a downstream concern to be addressed later. The same behavioral criteria used to define persona, boundaries, authority, memory semantics, failure handling, and other core system commitments in Personal Moneypenny will be used to evaluate those behaviors throughout the system’s evolution. As each system evolves, evaluation criteria will be developed, refined, and carried forward. What will change across phases is not what “good behavior” means, but the conditions under which it is exercised. This will allow evaluation to act as a stabilizer: making early decisions durable, later complexity testable, and subtle failures visible before they become entrenched.   
  
-## Phase 1: Personal Moneypenny
-### Goal: Establish semantic commitments and governance in a forgiving environment
+## Phase 1: Personal Moneypenny   
+
+### Goal: Establish semantic commitments and governance in a forgiving environment   
 Personal Moneypenny is functionally rich but architecturally conservative. It supports calendars, tasks, projects, journals, decision logs, research, reminders, and artifact indexing, but it does so in a context designed to be forgiving. For example:
 * There is one user. 
 * Autonomy is low. 
