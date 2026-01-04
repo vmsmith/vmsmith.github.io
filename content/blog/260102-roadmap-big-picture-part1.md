@@ -30,7 +30,7 @@ In that context, the two Moneypennys are not earlier versions of Cletho. They ar
 
 Several principles govern this roadmap.   
 
-** 1. Risk before capability**   
+**1. Risk before capability**   
 
 We prioritize confronting the riskiest unknowns early—especially those involving trust, memory, authority, and drift—before expanding the system’s capabilities. Risk does not disappear phase by phase; what changes is which risks dominate, and whether they are surfaced deliberately or allowed to emerge implicitly.   
 
@@ -47,38 +47,49 @@ Evaluation is treated as a critical component from the start, rather than a down
 ## Phase 1: Personal Moneypenny   
 
 ### Goal: Establish semantic commitments and governance in a forgiving environment   
-Personal Moneypenny is functionally rich but architecturally conservative. It supports calendars, tasks, projects, journals, decision logs, research, reminders, and artifact indexing, but it does so in a context designed to be forgiving. For example:
-* There is one user. 
-* Autonomy is low. 
-* Confirmations are explicit. 
-* Failures are dealt with conversationally—between the system and the developer/user—rather than automatically by the system itself. 
-* State is small enough to inspect and reason about manually.
-Because this environment is intentionally forgiving, it can also create false confidence; some assumptions will appear sound here and fail later, which is precisely why they must be carried forward and tested again.
-The contextual purpose of this phase is to minimize hidden interactions, i.e., cases where one action quietly changes how other parts of the system behave, without the user realizing it at the time. And a central aim is to make the system’s behavioral constraints as explicit as its functional capabilities.
-Phase 1 answers questions such as:
-* What counts as durable memory versus working context?
-* What behaviors must always hold, regardless of task or prompt?
-* How is uncertainty expressed?
-* When the system proposes an action or a memory update, who has final authority?
-* What must never happen, even if a prompt appears to invite it?
-These are not implementation questions; they are semantic commitment questions. They ask what actions and statements mean, and what they obligate the system to do later.
-Implementation questions ask:
-* How is this stored?
-* What API do we call?
-* How often do we retry?
-* What data structure do we use?
-* What model or tool do we invoke?
-Semantic commitment questions ask:
-* Is this a note, a decision, or a tentative idea?
-* Does this statement commit the system to future behavior?
-* Can this be revised later, and by whom?
-* Does storing this change how future reasoning should proceed?
-* Is this advisory, descriptive, or prescriptive?
-These are questions of what it means to do the thing at all, and again, they are important because they determine what the system is obligated to do later.
+
+Personal Moneypenny is functionally rich but architecturally conservative. It supports calendars, tasks, projects, journals, decision logs, research, reminders, and artifact indexing, but it does so in a context designed to be forgiving. For example:    
+
+* There is one user.   
+* Autonomy is low.     
+* Confirmations are explicit.    
+* Failures are dealt with conversationally—between the system and the developer/user—rather than automatically by the system itself.   
+* State is small enough to inspect and reason about manually.    
+
+Because this environment is intentionally forgiving, it can also create false confidence; some assumptions will appear sound here and fail later, which is precisely why they must be carried forward and tested again.    
+
+The contextual purpose of this phase is to minimize hidden interactions, i.e., cases where one action quietly changes how other parts of the system behave, without the user realizing it at the time. And a central aim is to make the system’s behavioral constraints as explicit as its functional capabilities.   
+
+Phase 1 answers questions such as:   
+* What counts as durable memory versus working context?   
+* What behaviors must always hold, regardless of task or prompt?   
+* How is uncertainty expressed?   
+* When the system proposes an action or a memory update, who has final authority?   
+* What must never happen, even if a prompt appears to invite it?   
+
+These are not implementation questions; they are semantic commitment questions. They ask what actions and statements mean, and what they obligate the system to do later.   
+
+Implementation questions ask:    
+* How is this stored?    
+* What API do we call?    
+* How often do we retry?    
+* What data structure do we use?   
+* What model or tool do we invoke?    
+
+Semantic commitment questions ask:   
+* Is this a note, a decision, or a tentative idea?   
+* Does this statement commit the system to future behavior?    
+* Can this be revised later, and by whom?    
+* Does storing this change how future reasoning should proceed?    
+* Is this advisory, descriptive, or prescriptive?    
+
+These are questions of what it means to do the thing at all, and again, they are important because they determine what the system is obligated to do later.   
 These distinctions only become clear in practice; representative examples are documented here and are treated as part of the roadmap itself: 
-[Semantic commitment examples](link to a separate page) (e.g., decisions vs. notes, memory promotion, authority boundaries, summaries, and reframing)
-### What risks Phase 1 is designed to surface
-**Conceptual drift**
+[Semantic commitment examples](link to a separate page) (e.g., decisions vs. notes, memory promotion, authority boundaries, summaries, and reframing)    
+
+### What risks Phase 1 is designed to surface    
+**Conceptual drift**   
+
 Without explicit identity, tone, and boundaries, systems become inconsistent. They answer similar questions differently on different days and overreach in subtle ways. Phase 1 forces these rules to be made explicit.
 **Unbounded or accidental memory**   
 Memory is one of the most consequential capabilities an AI system can have. Once information is treated as durable memory, it begins to shape future reasoning and behavior. Phase 1 defines what information may persist, under what conditions, and with what provenance. Without this, tentative or contextual information can quietly harden into assumed truth.
