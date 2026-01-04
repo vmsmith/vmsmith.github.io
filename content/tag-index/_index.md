@@ -11,7 +11,7 @@ Tags are kept intentionally sparse and high-leverage to support search, organiza
 
 ---
 
-### Persistent Knowledge
+### persistent-knowledge
 Long-lived and externalized information structures that Moneypenny must rely on.
 
 **Tags:**  
@@ -19,7 +19,7 @@ Long-lived and externalized information structures that Moneypenny must rely on.
 
 ---
 
-### Integrations
+### integrations
 Systems that interact with Moneypenny, and the mechanisms that connect them.
 
 **Tags:**  
@@ -27,7 +27,7 @@ Systems that interact with Moneypenny, and the mechanisms that connect them.
 
 ---
 
-### Orchestration Layer
+### orchestration-layer
 The execution layer that manages workflows, retrieval, pipelines, and agent behavior.
 
 **Tags:**  
@@ -35,7 +35,7 @@ The execution layer that manages workflows, retrieval, pipelines, and agent beha
 
 ---
 
-### Cognition Layer
+### cognition-layer
 Reasoning structures that help Moneypenny analyze goals, framing, uncertainty, and decision quality.
 
 **Tags:**  
@@ -43,7 +43,7 @@ Reasoning structures that help Moneypenny analyze goals, framing, uncertainty, a
 
 ---
 
-### LLM Layer
+### llm-Layer
 Topics concerning model behavior, prompting, evaluation, and parameters.
 
 **Tags:**  
@@ -51,7 +51,7 @@ Topics concerning model behavior, prompting, evaluation, and parameters.
 
 ---
 
-### Dialogue Scripts
+### dialogue-scripts
 Conversation flows, nudging strategies, and reflective scaffolding.
 
 **Tags:**  
@@ -59,7 +59,7 @@ Conversation flows, nudging strategies, and reflective scaffolding.
 
 ---
 
-### User Interface
+### user-interface
 How users interact with Moneypenny across devices and modalities.
 
 **Tags:**  
@@ -67,10 +67,18 @@ How users interact with Moneypenny across devices and modalities.
 
 ---
 
-### Meta Systems
+### meta-systems
 Process improvements, debugging, refactoring, and internal evaluations.
 
 **Tags:**  
-`system-design`, `versioning`, `debugging`, `evaluation`, `workflow-tuning`, `milestones`, `retrospective`
+`system-design`, `versioning`, `debugging`, `evaluation`, `workflow-tuning`, `milestones`, `retrospective`    
+
+---   
+
+### miscellaneous   
+Because there always has to be a miscellaneous category, and the tags will grow organically. 
+
+**Tags**
+`local-models`
 
 
