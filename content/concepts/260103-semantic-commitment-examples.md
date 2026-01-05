@@ -11,7 +11,8 @@ summary: "Examples of semantic commitment for the long-term roadmap"
 1. Note vs Decision vs Tentative Idea     
 2. Memory Promotion    
 3. Authority Boundaries    
-4. Summaries and Canonical Status      
+4. Summaries and Canonical Status
+5. Reframing a Problem   
 
 ### Example 1: Note vs Decision vs Tentative Idea   
 
