@@ -53,28 +53,28 @@ The analogy isn’t a one-to-one mapping. It is, however, a reminder that “doi
 
 A capability slice is considered shippable only when all tracks have passed for that slice.
  
-#### Track 1 — The capability sequence (user-visible vertical slices)   
+### Track 1 — The capability sequence (user-visible vertical slices)   
 Capabilities will be developed one at a time in a deliberately conservative manner, starting with the least complex commitment surface and progressing toward the most complex.   
 
 Capabilities will be introduced as end-to-end vertical slices with minimal scope but complete governance, evaluation, plumbing, and context handling.   
 
-**Track 1 output artifacts**   
+#### Track 1 output artifacts       
 
 Minimal capability specification, e.g., To Do List specs, Journal specs, etc.
 * Commitment surface map (what user inputs can trigger what state changes)
 * Integration touchpoints (persistence and/or external services involved)   
 
-**Track 1 consumes**  
+#### Track 1 consumes     
 * Semantic commitments and governance rules (Track 2)
 * Evaluation scenarios and rubric (Track 3)
 * Plumbing contracts (Track 4)
 * Context assembly rules (Track 5)
  
-#### Track 2 — Semantic commitments & governance (the behavioral contract)   
+### Track 2 — Semantic commitments & governance (the behavioral contract)   
 
 Semantic commitments define the system’s behavioral contract and are treated as first-class design artifacts. A capability is not considered complete until its semantic commitments are explicit, testable, and exercised.   
 
-**Commitment domains**   
+#### Commitment domains      
 * Classification commitments (note vs idea vs decision vs task, etc.)   
 * Authority commitments (advisory vs executory; confirmation triggers; reversibility; no surprising actions)   
 * Memory commitments (working context vs durable memory; promotion rules; provenance)    
@@ -84,16 +84,16 @@ Semantic commitments define the system’s behavioral contract and are treated a
 
 Note: These are the initial commitment domains. More may be added as work progresses and different issues surface.    
 
-**Track 2 output artifacts**      
+#### Track 2 output artifacts         
 * `SemanticCommitments.md` expressed as executable if/then rules   
 * A commitment decision tree for ambiguous utterances   
 * A list of hard invariants vs scored (soft) criteria    
 
-#### Track 3 — Evaluation (drift detection as well as capability performance)   
+### Track 3 — Evaluation (drift detection as well as capability performance)   
 Evaluation is implemented from the very start and built upon continuously.   
 Its primary purpose is to detect and prevent silent behavioral drift and invariant violations. In addition, each capability slice will be evaluated against explicit performance criteria (e.g., clarity, efficiency, convergence), provided those criteria do not conflict with governing semantic commitments. Performance criteria are evaluated only after all pass/fail invariants have been satisfied.   
 
-**Evaluation objects**   
+#### Evaluation objects      
 * Scenario - Short dialogue plus:    
   * expected commitments invoked    
   * expected disclosures    
@@ -102,23 +102,23 @@ Its primary purpose is to detect and prevent silent behavioral drift and invaria
   * Pass/fail invariants (non-negotiable)    
   * Scored criteria (diagnostic)   
 
-**Example pass/fail invariants**      
+#### Example pass/fail invariants          
 * No external side effects without explicit confirmation.   
 * No durable writes without explicit confirmation.   
 * No silent reframes.   
 * No unacknowledged omissions when context pressure is present.   
 
-**Track 3 output artifacts**        
+#### Track 3 output artifacts           
 * Versioned scenario suite (seeded by the six semantic-commitment examples)    
 * Regression record documenting:   
   * what changed   
   * what scenarios ran   
   * what failed or regressed   
  
-#### Track 4 — Plumbing (i.e., software control infrastructure)    
+### Track 4 — Plumbing (i.e., software control infrastructure)    
 Plumbing exists to enforce governance and evaluation, not as an independent optimization target.   
 
-**Minimum plumbing contract**   
+#### Minimum plumbing contract       
 Orchestration functions as the hub and gateway through which all inter-component flows pass and must be approved.   
 
 At a minimum, Orchestration:   
@@ -129,21 +129,21 @@ At a minimum, Orchestration:
 * Logs proposed vs executed actions   
 * Applies approved state deltas to persistence or external services   
 
-**Persistence partitions**   
+#### Persistence partitions       
 * System of record - Authoritative, durable objects   
 * Working memory - Ephemeral session artifacts   
 * Knowledge store - Retrieval indexes and documents   
 
-**Mandatory logging**      
+#### Mandatory logging          
 * Proposed action log (from cognition)   
 * Executed action log (what actually happened)    
 * Context bundle snapshot (or hash)    
 * Version stamp of governing documents (persona, commitments, rules)   
  
-#### Track 5 — Context management (context engineering & window discipline)
+### Track 5 — Context management (context engineering & window discipline)
 This track governs how information is selected, summarized, injected, excluded, and disclosed.    
 
-**Core artifact: Context Bundle**    
+#### Core artifact: Context Bundle       
 A Context Bundle is a structured, inspectable object that includes:
 * Context types (policy, working context, retrieved artifacts, summaries, recent dialogue)   
 * Budgets per type   
@@ -151,7 +151,7 @@ A Context Bundle is a structured, inspectable object that includes:
 * Exclusion reasons   
 * Risk flags (e.g., possible omission due to budget pressure)   
 
-**Context rules (must be explicit)**      
+#### Context rules (must be explicit)          
 * What qualifies as canonical vs summary vs retrieved reference
 * What may be injected automatically vs only on user request
 * When the system must disclose:  
@@ -160,19 +160,19 @@ A Context Bundle is a structured, inspectable object that includes:
   * budget-forced exclusions  
   * low confidence or possible omission
   
-**Success definition**    
+#### Success definition       
 Under context pressure, the system either:
 * degrades by asking for narrowing, or    
 * degrades by explicitly disclaiming possible omissions, but never by silently selecting a narrative.   
   
-#### Global gates (apply to every capability slice)   
+### Global gates (apply to every capability slice)   
 A capability slice is only deemed complete if:   
 * Semantic commitments are written and mapped to the slice’s commitment surface.   
 * Scenario tests exist and pass.    
 * Orchestration enforces authority and logs proposed vs executed actions.   
 * The context bundle is budgeted, inspectable, and disclosed when relevant.   
  
-#### Failure taxonomy (explicitly defended against)    
+### Failure taxonomy (explicitly defended against)    
 The system will be explicitly designed and built to detect and prevent:
 * Silent authority creep    
 * Commitment laundering (ideas becoming decisions)    
