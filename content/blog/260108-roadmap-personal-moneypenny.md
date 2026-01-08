@@ -10,9 +10,9 @@ summary: "The initial roadmap for developing Personal Moneypenny"
 ## Personal Moneypenny — High-Level Development Roadmap   
 This document defines how Personal Moneypenny will be developed, not the detailed steps of any individual capability. It is intended to function as a contractual frame that constrains design, implementation, and evolution.
  
-#### Operating assumptions   
+### Operating assumptions   
 
-**Assumptions**       
+#### Assumptions       
 * Single user.   
 * Low autonomy by default.   
 * Explicit confirmations are required for any durable state change or external side effect.   
@@ -20,7 +20,7 @@ This document defines how Personal Moneypenny will be developed, not the detaile
 
 “Manually inspectable” means the system does not rely on hidden prompts, implicit state, or opaque inference chains to explain its behavior.   
 
-**Architectural invariants**      
+#### Architectural invariants      
 The following separations are treated as invariants, not conveniences:     
 * Presentation ↔ Orchestration ↔ Cognition
 * Persistence and External Services exist within the runtime boundary.
@@ -28,7 +28,7 @@ The following separations are treated as invariants, not conveniences:
 Cognition proposes; Orchestration evaluates, authorizes, and executes (or declines).    
 For Personal Moneypenny, semantic commitments are global and uniform; user-specific overrides are explicitly out of scope. In other words, the rules governing meaning, memory, and authority are fixed and universal; they do not vary by user, context, or inferred preference.   
 
-**Definition of “inspectable”**     
+#### Definition of “inspectable”      
 For any user-visible outcome, the system can produce:   
 (a) the inputs used   
 (b) the semantic commitments invoked   
